@@ -1,4 +1,4 @@
-# Data-Scient-Project_11_FEB_2021
+# Data-Science-Project_11_FEB_2021
 
 ## Amazon Sentimental Analysis on the Reviews on Indian Products
 
