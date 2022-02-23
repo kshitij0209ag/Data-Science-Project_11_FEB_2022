@@ -13,11 +13,11 @@ pip install vanderSentiment
 pip install WordCloud
 ```
 
-# 🛠 Build with
+<!-- # 🛠 Build with
 
 * Scikit-learn
-* Logistic Regression
-* Confusion Matrix
+* Keras
+* Tensorflow -->
 
 # Author
 
