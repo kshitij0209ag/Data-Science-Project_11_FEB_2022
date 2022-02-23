@@ -11,12 +11,15 @@ pip install seaborn
 pip install matplotlib
 pip install vanderSentiment
 pip install WordCloud
+pip install nltk
 ```
 
-<!-- # 🛠 Build with
+# 🛠 Build with
 
 * Scikit-learn
-* Keras
+* Logistic Regression
+* Confusion Matrix
+<!-- * Keras
 * Tensorflow -->
 
 # Author
