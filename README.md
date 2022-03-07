@@ -16,7 +16,7 @@ pip install nltk
 
 # 🛠 Build with
 
-* Scikit-learn
+<!-- * Scikit-learn -->
 * Logistic Regression
 * Confusion Matrix
 <!-- * Keras
